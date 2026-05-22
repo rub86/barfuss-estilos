@@ -16,7 +16,7 @@ Lista completa de reconocimientos obtenidos por las cervezas de Bärfuss.
 | PH al Fondo | Copa Cervezas de América | 🥇 Oro | 2023 |
 | PH al Fondo | Copa Cervezas de América GCA | 🏆 Mejor Cerveza de América | 2023 |
 | American Amber Ale (AAA) | Copa Cervezas de América | 🥉 Bronce | 2017 |
-| American Amber Ale (AAA) | Copa Tayrona | 🥇 Oro | — |
+| American Amber Ale (AAA) | Copa Tayrona | 🥇 Oro | 2022 |
 | Session IPA | Copa Cervezas de América | 🥈 Plata | 2023 |
 | Session IPA | Copa Tayrona | 🥉 Bronce | 2019 |
 | Crazy Hops | Copa Cervezas de América | 🥇 Oro | 2018 |
