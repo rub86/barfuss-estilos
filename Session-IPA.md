@@ -28,4 +28,4 @@ Color rubio claro y brillante. Espuma blanca, fina, persistente.
 Amargor ligero y limpio que da paso a un final seco. Notas citricas y tropicales. Muy facil de tomar.
 
 ### Cuerpo
-Liviano y fresco. Carbonatacionmedia-alta que la hace incredibly bebible.
+Liviano y fresco. Carbonatacion media-alta que la hace mas bebible aun.
