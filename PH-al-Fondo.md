@@ -1,4 +1,4 @@
-# PH al Fondo — Bärfuss
+# PH al Fondo
 
 ## Perfil General
 

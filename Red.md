@@ -1,4 +1,4 @@
-# Red Ale — Bärfuss
+# Red Ale
 
 ## Perfil General
 

@@ -1,4 +1,4 @@
-# IPA Texas Ranger — Bärfuss
+# IPA Texas Ranger
 
 ## Perfil General
 

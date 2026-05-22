@@ -1,4 +1,4 @@
-# FLIPA — Barfuss
+# FLIPA
 
 ## Perfil General
 

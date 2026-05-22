@@ -1,4 +1,4 @@
-# Barley Wine — Bärfuss
+# Barley Wine
 
 ## Perfil General
 

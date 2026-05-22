@@ -1,4 +1,4 @@
-# Blond Ale — Bärfuss
+# Blond Ale
 
 ## Perfil General
 

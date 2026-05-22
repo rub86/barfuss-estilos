@@ -1,4 +1,4 @@
-# Session IPA — Barfuss
+# Session IPA
 
 ## Perfil General
 

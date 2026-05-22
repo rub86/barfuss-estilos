@@ -1,4 +1,4 @@
-# Imperial Stout — Bärfuss
+# Imperial Stout
 
 ## Perfil General
 

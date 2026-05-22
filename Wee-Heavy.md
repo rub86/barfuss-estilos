@@ -1,4 +1,4 @@
-# Wee Heavy — Bärfuss
+# Wee Heavy
 
 ## Perfil General
 

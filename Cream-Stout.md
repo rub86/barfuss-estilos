@@ -1,4 +1,4 @@
-# Cream Stout — Bärfuss
+# Cream Stout
 
 ## Perfil General
 

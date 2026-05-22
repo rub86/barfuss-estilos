@@ -1,4 +1,4 @@
-# Medallas y Reconocimientos — Bärfuss
+# Medallas y Reconocimientos
 
 Lista completa de reconocimientos obtenidos por las cervezas de Bärfuss.
 

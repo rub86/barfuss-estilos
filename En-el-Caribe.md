@@ -1,4 +1,4 @@
-# En el Caribe — Bärfuss
+# En el Caribe
 
 ## Perfil General
 

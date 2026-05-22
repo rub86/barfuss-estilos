@@ -1,4 +1,4 @@
-# American Amber Ale (AAA) — Barfuss
+# American Amber Ale (AAA)
 
 ## Perfil General
 

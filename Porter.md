@@ -1,4 +1,4 @@
-# Porter — Bärfuss
+# Porter
 
 ## Perfil General
 

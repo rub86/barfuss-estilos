@@ -1,4 +1,4 @@
-# Crazy Hops — Barfuss
+# Crazy Hops
 
 ## Perfil General
 

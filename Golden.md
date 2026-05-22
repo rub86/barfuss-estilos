@@ -1,4 +1,4 @@
-# Golden — Bärfuss
+# Golden
 
 ## Perfil General
 
