@@ -13,7 +13,7 @@ Una stout muy oscura y cremosa, de cuerpo pleno y con notas a cafe con crema y c
 
 ## Reconocimientos
 
-- 🥈 Plata — Copa Argentina de Cervezas | 2025
+- 🥈 Plata — Copa Argentina de Cervezas
 
 ## Perfil de Cata
 

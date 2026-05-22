@@ -15,12 +15,12 @@ Es una cerveza transgresora, que difumina las barreras del estilo para invitarno
 
 ## Reconocimientos
 
-- 🥇 Oro — Copa Cervezas de America | 2017
-- 🥈 Plata — Copa Latinoamericana de Cervezas | 2018
-- 🥉 Bronce — Copa Mitad del Mundo | 2018
-- 🥉 Bronce — Copa Cervezas de America | 2023
-- 🥉 Bronce — Copa Argentina de Cervezas | 2024
-- 🥈 Plata — Copa Argentina de Cervezas (American-Style IPA) | 2025
+- 🥇 Oro — Copa Cervezas de America GCA
+- 🥈 Plata — Copa Latinoamericana de Cervezas
+- 🥉 Bronce — Copa Mitad del Mundo
+- 🥉 Bronce — Copa Cervezas de America GCA
+- 🥉 Bronce — Copa Argentina de Cervezas
+- 🥈 Plata — Copa Argentina de Cervezas
 
 ## Perfil de Cata
 

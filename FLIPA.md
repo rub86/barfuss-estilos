@@ -13,20 +13,20 @@ FLIPA es una IPA Americana de perfil equilibrado, con intenso character citrico 
 
 ## Reconocimientos
 
-- 🥇🏆 Oro — Mejor Cerveza Argentina — Copa Cervezas de America GCA | 2019
-- 🥇🏆 Oro — Copa Cervezas de America GCA | 2019
-- 🥉🏆 Bronce — Mejor Cerveza Continental — Copa Cervezas de America GCA | 2019
+- 🥇🏆 Oro — Mejor Cerveza Argentina — Copa Cervezas de America GCA
+- 🥇🏆 Oro — Copa Cervezas de America GCA
+- 🥉🏆 Bronce — Mejor Cerveza Continental — Copa Cervezas de America GCA
 
 ## Perfil de Cata
 
 ### Aroma
-Intensos notas citricas y tropicales. Lupulo fresco del nuevo mundo.
+Intensas notas citricas y tropicales. Lupulo fresco del nuevo mundo.
 
 ### Apariencia
 Color dorado claro. Espuma blanca, cremosa, buena retencion.
 
 ### Sabor
-Cuerpo medio, amargor moderado. Final seco con残留 dulce de malta. Notas citricas y frutales.
+Cuerpo medio, amargor moderado. Final seco con notas citricas y frutales. Equilibrio entre malta y lupulo.
 
 ### Cuerpo
 Medio. Equilibrado, con estructura maltosa que soporta el lupulo.

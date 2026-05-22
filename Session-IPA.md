@@ -1,4 +1,4 @@
-# Session IPA — Bärfuss
+# Session IPA — Barfuss
 
 ## Perfil General
 
@@ -7,11 +7,11 @@
 - **IBU:** —
 - **SRM:** —
 
-## Descripción
+## Descripcion
 
 IPA ligera y bebible, con intenso character lupulado y bajo alcohol. Ideal para sesiones largas.
 
 ## Reconocimientos
 
-- 🥈 Plata — Copa Cervezas de América | 2023
-- 🥉 Bronce — Copa Tayrona | 2019
+- 🥈 Plata — Copa Cervezas de America GCA
+- 🥉 Bronce — Copa Tayrona

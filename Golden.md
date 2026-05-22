@@ -13,4 +13,4 @@ Cerveza dorada, ligera y refrescante, con perfil maltoso suave y final limpio. E
 
 ## Reconocimientos
 
-- 🥇 Oro — Copa Argentina de Cervezas | 2024
+- 🥇 Oro — Copa Argentina de Cervezas

@@ -13,8 +13,8 @@ Cobriza y de espuma cremosa, presenta notas de bizcocho, caramelo y cerezas. La 
 
 ## Reconocimientos
 
-- 🥉 Bronce — Copa Cervezas de America | 2019
-- 🥉 Bronce — Copa Cervezas de America | 2023
+- 🥉 Bronce — Copa Cervezas de America GCA
+- 🥉 Bronce — Copa Cervezas de America GCA
 
 ## Perfil de Cata
 
