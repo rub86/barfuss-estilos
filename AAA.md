@@ -16,7 +16,7 @@ En boca es maltosa con notas de pan y bizcocho, finamente equilibrada con finas 
 ## Reconocimientos
 
 - 🥇 Oro — Copa Tayrona
-- 🥉 Bronce — Copa Cervezas de America GCA
+- 🥉 Bronce — Copa Cervezas de América GCA
 
 ## Perfil de Cata
 

@@ -21,8 +21,8 @@ Con su bajo amargor caracteristico del estilo, cuerpo ligero y marcada carbonata
 
 ## Reconocimientos
 
-- 🥇🏆 Oro — Copa Cervezas de America GCA
-- 🏆 Oro — Mejor Cerveza de America — Copa Cervezas de America GCA
+- 🥇 Oro — Copa Cervezas de América GCA
+- 🏆 Oro — Mejor Cerveza de América — Copa Cervezas de América GCA
 
 ## Perfil de Cata
 

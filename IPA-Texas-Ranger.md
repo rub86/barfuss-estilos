@@ -15,10 +15,10 @@ Es una cerveza transgresora, que difumina las barreras del estilo para invitarno
 
 ## Reconocimientos
 
-- 🥇 Oro — Copa Cervezas de America GCA
+- 🥇 Oro — Copa Cervezas de América GCA
 - 🥈 Plata — Copa Latinoamericana de Cervezas
 - 🥉 Bronce — Copa Mitad del Mundo
-- 🥉 Bronce — Copa Cervezas de America GCA
+- 🥉 Bronce — Copa Cervezas de América GCA
 - 🥉 Bronce — Copa Argentina de Cervezas
 - 🥈 Plata — Copa Argentina de Cervezas
 

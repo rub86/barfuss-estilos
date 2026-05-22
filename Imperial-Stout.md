@@ -13,7 +13,7 @@ Muy oscura y fuerte. Con sabores intensos que van desde malta tostada, frutos se
 
 ## Reconocimientos
 
-- 🥉 Bronce — Copa Cervezas de America GCA
+- 🥉 Bronce — Copa Cervezas de América GCA
 
 ## Perfil de Cata
 

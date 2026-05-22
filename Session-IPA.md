@@ -13,7 +13,7 @@ Una IPA ultra-bebible, con el alma de una cerveza de trago largo. Se nota la pre
 
 ## Reconocimientos
 
-- 🥈 Plata — Copa Cervezas de America GCA
+- 🥈 Plata — Copa Cervezas de América GCA
 - 🥉 Bronce — Copa Tayrona
 
 ## Perfil de Cata
