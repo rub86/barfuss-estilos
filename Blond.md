@@ -1,4 +1,4 @@
-# Blond Ale
+# Blond
 
 ## Perfil General
 
