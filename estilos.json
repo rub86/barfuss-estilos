@@ -9,5 +9,11 @@
   {"nombre": "Wee Heavy", "archivo": "Wee-Heavy.md"},
   {"nombre": "FLIPA", "archivo": "FLIPA.md"},
   {"nombre": "Porter", "archivo": "Porter.md"},
-  {"nombre": "American Amber Ale (AAA)", "archivo": "AAA.md"}
+  {"nombre": "American Amber Ale (AAA)", "archivo": "AAA.md"},
+  {"nombre": "Crazy Hops", "archivo": "Crazy-Hops.md"},
+  {"nombre": "Cream Stout", "archivo": "Cream-Stout.md"},
+  {"nombre": "Imperial Stout", "archivo": "Imperial-Stout.md"},
+  {"nombre": "Barley Wine", "archivo": "Barley-Wine.md"},
+  {"nombre": "Session IPA", "archivo": "Session-IPA.md"},
+  {"nombre": "Golden", "archivo": "Golden.md"}
 ]
