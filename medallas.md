@@ -1,6 +1,6 @@
 # Medallas y Reconocimientos — Bärfuss
 
-Lista completa de reconocimientos internacionales obtenidos por las cervezas de Bärfuss.
+Lista completa de reconocimientos obtenidos por las cervezas de Bärfuss.
 
 | Cerveza | Competencia | Premio | Año |
 |---------|-------------|--------|-----|
