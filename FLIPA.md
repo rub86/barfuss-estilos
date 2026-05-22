@@ -1,4 +1,4 @@
-# FLIPA — Bärfuss
+# FLIPA — Barfuss
 
 ## Perfil General
 
@@ -13,9 +13,9 @@ FLIPA es una IPA Americana de perfil equilibrado, con intenso character citrico 
 
 ## Reconocimientos
 
-- 🥇🏆 Oro — Mejor Cerveza Argentina — Copa Cervezas de America GCA
+- 🏆 Oro — Mejor Cerveza Argentina — Copa Cervezas de America GCA
 - 🥇🏆 Oro — Copa Cervezas de America GCA
-- 🥉🏆 Bronce — Mejor Cerveza Continental — Copa Cervezas de America GCA
+- 🏆 Bronce — Mejor Cerveza Continental — Copa Cervezas de America GCA
 
 ## Perfil de Cata
 

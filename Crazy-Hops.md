@@ -1,4 +1,4 @@
-# Crazy Hops — Bärfuss
+# Crazy Hops — Barfuss
 
 ## Perfil General
 
@@ -16,7 +16,7 @@ Se presenta con variaciones en la seleccion de lupulos y agregados aromaticos.
 ## Reconocimientos
 
 - 🥇🏆 Oro — Copa Cervezas de America GCA
-- 🥇🏆 Oro — Mejor American Pale Ale — Copa Cervezas de America GCA
+- 🏆 Oro — Mejor American Pale Ale — Copa Cervezas de America GCA
 - 🥉 Bronce — Copa Argentina de Cervezas
 
 ## Perfil de Cata
