@@ -7,27 +7,28 @@
 - **IBU:** 35
 - **SRM:** 5 (rubia)
 
-## Descripción
+## Descripcion
 
-Cerveza rubia con rasgos de IPA, pero integrando un amargor mucho más sutil. Suave, frutada y aromática, con la impronta de malta Pilsen y un notable pero equilibrado balance hacia los lúpulos americanos, muy apreciables en nariz.
+Cerveza rubia con rasgos de IPA, pero integrando un amargor mucho mas sutil. Suave, frutada y aromaticca, con la impronta de malta Pilsen y un notable pero equilibrado balance hacia los lupulos americanos, muy apreciables en nariz.
 
-Se presenta con variaciones en la selección de lúpulos y agregados aromáticos.
+Se presenta con variaciones en la seleccion de lupulos y agregados aromaticos.
 
 ## Reconocimientos
 
-- 🥇 Medalla de Oro — Copa Cervezas de América
-- 🥇 Mejor American Pale Ale — Copa Cervezas de América
+- 🥇 Oro — Copa Cervezas de America | 2018
+- 🥇 Mejor American Pale Ale — Copa Cervezas de America | 2018
+- 🥉 Bronce — Copa Argentina de Cervezas | 2024
 
 ## Perfil de Cata
 
 ### Aroma
-Lúpulos americanos suaves pero presentes. Frutada y aromática. Malta Pilsen de fondo.
+Lupulos americanos suaves pero presentes. Frutada y aromaticca. Malta Pilsen de fondo.
 
 ### Apariencia
-Color rubio brillante. Limpia, atractivo.
+Color rubio brillante. Limpia, atractiva.
 
 ### Sabor
-Amargor sutil (35 IBU). Frutada, suave. Balance equilibrado hacia lúpulo americano.
+Amargor sutil (35 IBU). Frutada, suave. Balance equilibrado hacia lupulo americano.
 
 ### Cuerpo
-Medio-liviano. Fácil de beber. Variations en lúpulos según batch.
+Medio-liviano. Facil de beber. Variations en lupulos segun batch.

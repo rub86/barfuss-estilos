@@ -7,13 +7,14 @@
 - **IBU:** 16
 - **SRM:** 17 (rojiza/cobriza)
 
-## Descripción
+## Descripcion
 
 Cobriza y de espuma cremosa, presenta notas de bizcocho, caramelo y cerezas. La plenitud en boca proveniente del gran juego de maltas y el bajo amargor resultan en una experiencia adictiva.
 
 ## Reconocimientos
 
-- 🥉 Medalla de Bronce — Copa Cervezas de América
+- 🥉 Bronce — Copa Cervezas de America | 2019
+- 🥉 Bronce — Copa Cervezas de America | 2023
 
 ## Perfil de Cata
 
@@ -29,4 +30,4 @@ Cuerpo medio-pleno. Bajo amargor. Sabores de bizcocho, caramelo y cerezas. Equil
 ### Cuerpo
 Plenitud en boca proveniente del juego de maltas. Suave, adictiva, con retrogusto persistente.
 
-Amplio espectro, con gran atractivo para los que comienzan a descubrir la cerveza como producto gourmet. Mantiene el atractivo en consumidores más experimentados por su fascinante mezcla de sabores maltosos y sutilmente frutados.
+Amplio espectro, con gran atractivo para los que comienzan a descubrir la cerveza como producto gourmet. Mantiene el atractivo en consumidores mas experimentados por su fascinante mezcla de sabores maltosos y sutilmente frutados.

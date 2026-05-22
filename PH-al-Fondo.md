@@ -21,7 +21,8 @@ Con su bajo amargor característico del estilo, cuerpo ligero y marcada carbonat
 
 ## Reconocimientos
 
-- 🏆 Mejor Cerveza de América — Copa Cervezas de América GCA 2023
+- 🥇 Oro — Copa Cervezas de America | 2023
+- 🏆 Mejor Cerveza de America — Copa Cervezas de America GCA | 2023
 
 ## Perfil de Cata
 

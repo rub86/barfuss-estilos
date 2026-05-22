@@ -2,33 +2,31 @@
 
 ## Perfil General
 
-- **Estilo:** Red IPA / Specialty IPA (BJCP 21B)
-- **ABV:** 5.5%
+- **Estilo:** IPA Americana (BJCP 21A)
+- **ABV:** 6.5%
 - **IBU:** 55
-- **SRM:** 18 (rojiza)
+- **SRM:** 6 (rubia)
 
-## Descripción
+## Descripcion
 
-Un viaje lisérgico de lúpulos americanos y maltas cristal. Esta birra de tientes rojos e hipnóticos aromas te coloca de principio a fin.
-
-El untuoso cuerpo de caramelos está muy presente, pero sin descuidar la frescura lograda mediante la técnica de single hop aplicada.
+FLIPA es una IPA Americana de perfil equilibrado, con intenso character citrico y frutado gracias al lupulo. Cuerpo medio, amargor moderado y final seco. Versatil y potable.
 
 ## Reconocimientos
 
-- 🥇 Oro — Mejor Cerveza Argentina — Copa Cervezas de América
-- 🥇 Oro — Copa Cervezas de América
-- 🥉 Bronce — Mejor Cerveza Continental — Copa Cervezas de América
+- 🥇 Oro — Copa Cervezas de America | 2019
+- 🥇 Oro — Mejor Cerveza Argentina — Copa Cervezas de America | 2019
+- 🥉 Bronce — Mejor Cerveza Continental — Copa Cervezas de America | 2019
 
 ## Perfil de Cata
 
 ### Aroma
-Hipnótico, intenso. Lúpulos americanos. Notas de caramelo y malta cristal.
+Intensos notas citricas y tropicales. Lupulo fresco del nuevo mundo.
 
 ### Apariencia
-Color rojizo profundo. Brillante, limpia. Espuma persistente.
+Color dorado claro. Espuma blanca, cremosa, buena retencion.
 
 ### Sabor
-Untuoso cuerpo de caramelos. Frescura del lúpulo. Balance entre maltas cristal y single hop.
+Cuerpo medio, amargor moderado. Final seco con残留 dulce de malta. Notas citricas y frutales.
 
 ### Cuerpo
-Medio-pleno, untuoso. Caramelo presente pero con frescura. Sensación envolvente.
+Medio. Equilibrado, con estructura maltosa que soporta el lupulo.

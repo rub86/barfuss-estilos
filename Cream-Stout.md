@@ -9,7 +9,11 @@
 
 ## Descripción
 
-Una stout muy oscura y cremosa, de cuerpo pleno y con notas a café con crema y chocolate con leche. Un leve tostado y lupulado suave balancean el dulzor, haciéndola fácil de beber.
+Una stout muy oscura y cremosa, de cuerpo pleno y con notas a cafe con crema y chocolate con leche. Un leve tostado y lupulado suave balancean el dulzor, haciendola facil de beber.
+
+## Reconocimientos
+
+- 🥈 Plata — Copa Argentina de Cervezas | 2025
 
 ## Perfil de Cata
 
