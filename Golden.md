@@ -14,3 +14,17 @@ Cerveza dorada, ligera y refrescante, con perfil maltoso suave y final limpio. E
 ## Reconocimientos
 
 - 🥇 Oro — Copa Argentina de Cervezas
+
+## Perfil de Cata
+
+### Aroma
+maltoso suave, ligero dulzor de pan/galleta, lúpulo floral/herbal sutil
+
+### Apariencia
+dorado brillante, espuma blanca moderada, límpida
+
+### Sabor
+pan tostado suave, amargor bajo-medio, final limpio y seco
+
+### Cuerpo
+ligero-medio, carbonatación media, muy sessionable
