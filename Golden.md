@@ -3,9 +3,9 @@
 ## Perfil General
 
 - **Estilo:** Golden Ale (BJCP 18A)
-- **ABV:** —
-- **IBU:** —
-- **SRM:** —
+- **ABV:** 5%
+- **IBU:** 15
+- **SRM:** 6 (dorado)
 
 ## Descripción
 
